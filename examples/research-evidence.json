@@ -1,0 +1,18 @@
+{
+  "question": "Local LLM اور Multi-Agent Coding ماحول کو کن تہوں میں منتخب کیا جائے؟",
+  "sources": [
+    {"id": "S1", "title": "Herdr Agent automation", "url": "https://herdr.dev/tui/docs/agent-automation/", "accessed": "2026-11-06", "kind": "official"},
+    {"id": "S2", "title": "Herdr CLI reference", "url": "https://herdr.dev/tui/docs/cli-reference/", "accessed": "2026-11-06", "kind": "official"},
+    {"id": "S3", "title": "Ollama API Introduction", "url": "https://docs.ollama.com/api/introduction", "accessed": "2026-11-06", "kind": "official"},
+    {"id": "S4", "title": "llama.cpp HTTP Server", "url": "https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md", "accessed": "2026-11-06", "kind": "official"},
+    {"id": "S5", "title": "Codex CLI", "url": "https://developers.openai.com/codex/cli/", "accessed": "2026-11-06", "kind": "official"}
+  ],
+  "claims": [
+    {"text": "wait کے بعد بھی نتیجے کی acceptance ضروری ہے؛ یہ صرف lifecycle state بتاتا ہے", "status": "supported", "evidence": [{"source": "S1", "quote": "It does not track individual turns."}]},
+    {"text": "pane wait-output عام process output کے لیے اور agent wait Agent کے لیے ہے", "status": "supported", "evidence": [{"source": "S2", "quote": "Use pane wait-output for normal commands and servers. Use agent wait for coding agents."}]},
+    {"text": "Ollama local inference interface اور cloud usage بھی فراہم کرتا ہے", "status": "supported", "evidence": [{"source": "S3", "quote": "Use Ollama's API to build applications with cloud or local models."}]},
+    {"text": "llama.cpp server ماڈل کے لیے REST API اور web UI فراہم کرتا ہے", "status": "supported", "evidence": [{"source": "S4", "quote": "Set of LLM REST APIs and a web UI to interact with llama.cpp."}]},
+    {"text": "Coding CLI ٹرمینل میں code دیکھ، بدل اور commands چلا سکتی ہے", "status": "supported", "evidence": [{"source": "S5", "quote": "Inspect code, make changes, run commands, and automate repeatable work without leaving your terminal."}]},
+    {"text": "مزید Agent ہمیشہ local LLM تحقیق زیادہ درست کرتے ہیں", "status": "uncertain", "evidence": []}
+  ]
+}

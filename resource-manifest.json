@@ -1,0 +1,178 @@
+{
+  "resource_version": "1.0.0",
+  "book_edition": "1.0",
+  "title": "Herdr کے ساتھ قابلِ اعتماد ملٹی ایجنٹ ورک فلو",
+  "language": "ur-PK",
+  "rights_status": "Happy eBook has authorized public distribution of these Urdu companion resources as stated by the user on 2026-11-10.",
+  "license": "Companion resources for the Urdu book edition only. No general open-source license is granted.",
+  "files": {
+    ".gitignore": {
+      "bytes": 69,
+      "sha256": "51723a90a2f83fb4df649a961318739358027a79b39d264a60fe854e98b7f6f6"
+    },
+    "CHANGELOG.md": {
+      "bytes": 505,
+      "sha256": "4a97dc864c3a9d4f1aba34479946d17a7e2dba1355770fd27fc452cd1914d9a7"
+    },
+    "README.md": {
+      "bytes": 2021,
+      "sha256": "2e9b4bf1a6e9bfbe61b8638a9160b0a638893bba1ae8337c016993e81274b625"
+    },
+    "RIGHTS.md": {
+      "bytes": 572,
+      "sha256": "f52dc6eda5564cdaabdbdb44a5cb194250872483c0c3f4cbfb46b596b4a6d88d"
+    },
+    "examples/README.md": {
+      "bytes": 2253,
+      "sha256": "0390b5de18a941b22ccb0b595a4069c8c24779a8c6e4a62a73ea7bac98dd7439"
+    },
+    "examples/__init__.py": {
+      "bytes": 88,
+      "sha256": "6fca42a9ffed2f2de88b7e8f43268e6e6b34109fe1996b6021c2a84714624ff7"
+    },
+    "examples/calculator.py": {
+      "bytes": 744,
+      "sha256": "d6d6b7cd0a48adad1e2bae67186c76ecedb398439cde08c897f40ea13b131692"
+    },
+    "examples/grades.py": {
+      "bytes": 2393,
+      "sha256": "35bc1f022f039b6d91ca810a08d4780fe2a8314d6efabed279ea226e64887e52"
+    },
+    "examples/handoff.py": {
+      "bytes": 1763,
+      "sha256": "0f66be3a7956ba00884e03addc1f3315b786823ba6027831bcf3a2d97126cac3"
+    },
+    "examples/pipeline.py": {
+      "bytes": 2451,
+      "sha256": "b35a12f2583b4b5211c1760db2113b555498e294158a7bf8759bcd77dcd1fcc3"
+    },
+    "examples/prompts/backend.md": {
+      "bytes": 560,
+      "sha256": "436baddaf1608a41dd3f395a79c77257a6b927ee74780198a1c08dc5d656593b"
+    },
+    "examples/prompts/database.md": {
+      "bytes": 540,
+      "sha256": "3ade55bfa8af174fd1b8061467a4bea5119202a75ee786d88213d9e98cc53b1e"
+    },
+    "examples/prompts/developer.md": {
+      "bytes": 913,
+      "sha256": "14c7a5d05932d17307cb4c4e5d8d3485214687ce9c3505649e186b4523a52cad"
+    },
+    "examples/prompts/fact-checker.md": {
+      "bytes": 598,
+      "sha256": "1568c94fce24186942780cd8360e77078c342ef3559cf1fbc62681c067844e40"
+    },
+    "examples/prompts/frontend.md": {
+      "bytes": 482,
+      "sha256": "ea24627e15614b52428fc4e136c1c3d10a14fcfec938b7bbe4dbdee363508969"
+    },
+    "examples/prompts/grades-developer.md": {
+      "bytes": 1456,
+      "sha256": "e3b0aff39defffcfc031cbad46bcb7f3878393ad16e9a549f48ad4146ab40d6b"
+    },
+    "examples/prompts/grades-qa.md": {
+      "bytes": 1367,
+      "sha256": "432b575c118a0b84a92da3bd21026dc5e99a8d8f62b9c268c18e7ddb1a3b1852"
+    },
+    "examples/prompts/manager.md": {
+      "bytes": 1097,
+      "sha256": "99402a5e1db94e886f901f38a607241a429851e492e8ae84a647b2939ce1ab6c"
+    },
+    "examples/prompts/qa.md": {
+      "bytes": 531,
+      "sha256": "ebfdceedf94441542d709e94c26795f230030034f59c4da5a0e11806f5e4fdd2"
+    },
+    "examples/prompts/receipt-smoke.md": {
+      "bytes": 718,
+      "sha256": "d00ae784ce9dee25dbdc0756e6c38ba75f9ba5b81a35278099d6949a264ab8c0"
+    },
+    "examples/prompts/researcher.md": {
+      "bytes": 872,
+      "sha256": "25712e3da6577e133cfb2f5cbee7f32de4f7d2caabf344242e8fcf3d2506e344"
+    },
+    "examples/prompts/reviewer-a.md": {
+      "bytes": 968,
+      "sha256": "392ae29534082dae4b9ab7478aa2338fcb0253026e83e204b89f1e6f64bdcdfa"
+    },
+    "examples/prompts/reviewer-b.md": {
+      "bytes": 927,
+      "sha256": "98b4585ea4dded4faa8621cd71ff504d5b355d2452c937fb7b6c18ed37be2b4a"
+    },
+    "examples/queue.py": {
+      "bytes": 5842,
+      "sha256": "058f4f17e9a9a38158471b8577e1a51e948b962fcf8291646ad103d2cd17c8b0"
+    },
+    "examples/research-evidence.json": {
+      "bytes": 2310,
+      "sha256": "206f0ed5a94850dc42cef1088ed05eeac18c0a8782a81bcb9481df8389a88bac"
+    },
+    "examples/research.py": {
+      "bytes": 2864,
+      "sha256": "f3eba2f7b19d90d87784c158be33e67ca05e50b1854df8fe97a2a9a52ee645fc"
+    },
+    "examples/task_manager/__init__.py": {
+      "bytes": 50,
+      "sha256": "fee64853d38a2ebaf1d701722399301ed9bda031c6c50405b6fc803bddfcb403"
+    },
+    "examples/task_manager/db.py": {
+      "bytes": 1978,
+      "sha256": "3887f7c9f9fdd3b611b47590a9d1b7cc5ed30e587a591f7f485f743fd88b48be"
+    },
+    "examples/task_manager/main.py": {
+      "bytes": 2382,
+      "sha256": "2c8f508a094e502fa66df4ff74262b3ebe706a11b4aeab9cc9cf524426a9a98a"
+    },
+    "examples/task_manager/static/app.js": {
+      "bytes": 2366,
+      "sha256": "f7828175d5838860227158737771508c7c2e337fdd4d0a5078d1aebc570d1c89"
+    },
+    "examples/task_manager/static/index.html": {
+      "bytes": 708,
+      "sha256": "42bef421754eedbac82ab5dbc7e7400a6ed5e2af0a4fb080d196c5b713487948"
+    },
+    "examples/task_manager/static/style.css": {
+      "bytes": 689,
+      "sha256": "bd94c96ceae95d008a89526a0e4f0f2c2d723953af45f13f43073f7d68f5c05b"
+    },
+    "fonts/NotoNastaliqUrdu[wght].ttf": {
+      "bytes": 690304,
+      "sha256": "98a4787f34eb6fde57fb9a1121a8f216301196ab0da98ea110cad581be8abbcd"
+    },
+    "fonts/OFL.txt": {
+      "bytes": 4383,
+      "sha256": "ab798c35e5366a5aa2694aa3f824735c8bffd1706793762e44325d5b83d2c3a0"
+    },
+    "fonts/README.md": {
+      "bytes": 448,
+      "sha256": "737f0c891c1bbff1419bea352ca52df5a2832909a11752ccb02964d232d81c62"
+    },
+    "requirements.txt": {
+      "bytes": 61,
+      "sha256": "a45dd04a2d8a44160508ffc731ea77102ea2e861535fa92985c2a72b1475c835"
+    },
+    "scripts/make_handoff.py": {
+      "bytes": 657,
+      "sha256": "648652e2ceb5745bef0111890cf2a07bbfc93727c68557f41e530de738d50bc6"
+    },
+    "scripts/probe_herdr.py": {
+      "bytes": 6668,
+      "sha256": "5362222db2a37c45e69fd3526035dacb3246835bca13c4256c9f757bd6a9f1f8"
+    },
+    "scripts/team.py": {
+      "bytes": 2958,
+      "sha256": "71f742df653935d3eaede9ebc2c82153086b66b6a2ab01806ddc22912291a932"
+    },
+    "tests/test_api.py": {
+      "bytes": 2577,
+      "sha256": "5e4da4654f2a46249cbbed289ab3b95e79107b2ab99cc934c3acec8427ffcade"
+    },
+    "tests/test_contracts.py": {
+      "bytes": 5589,
+      "sha256": "58d28b7ad5ec84723eec85491b7d81581214f0ef8e6feac195fe7471075516ae"
+    },
+    "tests/test_queue_concurrency.py": {
+      "bytes": 579,
+      "sha256": "bf949e76e4b9769caa17ccaabe9a30d89b248bf21d32b00e9cbe00583a0c5e16"
+    }
+  }
+}
