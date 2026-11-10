@@ -1,5 +1,10 @@
 # Version history
 
+## v1.0.1 — 2026-11-10
+
+- Added working v1.0.1 download and checksum links to the Urdu resource README.
+- Clarified checksum verification steps.
+
 ## v1.0.0 — 2026-11-10
 
 - First Urdu companion-resource release, aligned with book edition 1.0.

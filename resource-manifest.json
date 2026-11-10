@@ -1,5 +1,5 @@
 {
-  "resource_version": "1.0.0",
+  "resource_version": "1.0.1",
   "book_edition": "1.0",
   "title": "Herdr کے ساتھ قابلِ اعتماد ملٹی ایجنٹ ورک فلو",
   "language": "ur-PK",
@@ -11,12 +11,12 @@
       "sha256": "51723a90a2f83fb4df649a961318739358027a79b39d264a60fe854e98b7f6f6"
     },
     "CHANGELOG.md": {
-      "bytes": 505,
-      "sha256": "4a97dc864c3a9d4f1aba34479946d17a7e2dba1355770fd27fc452cd1914d9a7"
+      "bytes": 653,
+      "sha256": "510f45d119af2f950206c05aa4fe97c2608296bc3f4e688456601cbcd0c80931"
     },
     "README.md": {
-      "bytes": 2021,
-      "sha256": "2e9b4bf1a6e9bfbe61b8638a9160b0a638893bba1ae8337c016993e81274b625"
+      "bytes": 2302,
+      "sha256": "c469be14632d46f7a241a6a0f66069e17f4002264cc652a9dbec5b0f374768b7"
     },
     "RIGHTS.md": {
       "bytes": 572,

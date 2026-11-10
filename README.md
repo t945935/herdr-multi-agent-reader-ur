@@ -7,13 +7,19 @@
 - WSL2／Ubuntu یا مناسب Linux terminal، Python 3.12 اور dependencies نصب کرنے کے لیے network access۔
 - حقیقی Herdr tasks کے لیے Herdr TUI اور پہلے سے configured/signed-in Agent CLI۔ Reference tests کو model account درکار نہیں۔
 
-## v1.0.0 حاصل کرنا
+## v1.0.1 حاصل کرنا
 
-- Release page: https://github.com/t945935/herdr-multi-agent-reader-ur/releases/tag/v1.0.0
-- ZIP: https://github.com/t945935/herdr-multi-agent-reader-ur/releases/download/v1.0.0/herdr-multi-agent-reader-ur.zip
-- SHA-256 list: https://github.com/t945935/herdr-multi-agent-reader-ur/releases/download/v1.0.0/SHA256SUMS.txt
+- Release page: https://github.com/t945935/herdr-multi-agent-reader-ur/releases/tag/v1.0.1
+- ZIP: https://github.com/t945935/herdr-multi-agent-reader-ur/releases/download/v1.0.1/herdr-multi-agent-reader-ur.zip
+- SHA-256 list: https://github.com/t945935/herdr-multi-agent-reader-ur/releases/download/v1.0.1/SHA256SUMS-ur.txt
 
-یہ links release شائع ہونے کے بعد فعال ہوں گے۔ SHA-256 کی اصل قدر اسی release asset کی `SHA256SUMS.txt` سے لیں۔
+ZIP اور checksum file ایک ہی directory میں محفوظ کرکے وہاں `.venv` بنائیں۔ SHA-256 چیک کرنے کے لیے `.venv` بنانے سے پہلے یہ command چلائیں:
+
+```bash
+sha256sum -c SHA256SUMS-ur.txt
+```
+
+درست ہونے پر ZIP کا نام اور `OK` آنا چاہیے۔ اس کے بعد ZIP extract کرکے tests چلانے کے لیے نیچے کے commands استعمال کریں۔
 
 ## نصب اور tests
 
